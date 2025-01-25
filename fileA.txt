@@ -1,7 +1,2 @@
-<<<<<<< HEAD
- 
- 
-=======
 
-Feature 1 with 1 bug
->>>>>>> feature1
+Feature 1 with 1 bug 
